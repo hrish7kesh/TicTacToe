@@ -36,10 +36,9 @@ Open `index.html` in your web browser to start playing.
 
 ## How to Play
 
-1. Enter the desired board size and player names.
-2. Players take turns selecting grid positions to place their symbols (X or O).
-3. The first player to form a horizontal, vertical, or diagonal line wins.
-4. If the grid is filled without a winner, the game ends in a draw.
+1. Players take turns selecting grid positions to place their symbols (X or O).
+2. The first player to form a horizontal, vertical, or diagonal line wins.
+3. If the grid is filled without a winner, the game ends in a draw.
 
 ## Contributing
 
