@@ -22,10 +22,10 @@ This project is an interactive Tic-Tac-Toe game with a customizable grid, implem
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/tictactoe.git
+   git clone https://github.com/hrish7kesh/TicTacToe.git
 
 2. **Navigate to the Project Directory:**
-  cd tictactoe
+  cd TicTacToe
 
 3. **Compile and Run the Java Game:**
   javac Main.java TicTacToe.java
